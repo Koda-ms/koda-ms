@@ -1,6 +1,6 @@
 ### Hi! My name is Julyanne 👋
 
-Here goes a resume about my student life. Oh! And, on this profile, you can also check some projects I've worked on. 😁
+Here it goes a brief statement about my student life. Oh! And, on this profile, you can also check some projects I've worked on. 😁
 
 🙋‍♀️ I've started college in 2020 and since the beginning I've gathered good experience about technologies and the mechanisms we may use. 
 
