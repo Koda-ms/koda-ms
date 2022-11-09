@@ -10,6 +10,8 @@ Here goes a resume about my student life. Oh! And, on this profile, you can also
 - 📫 How to reach me: you can send me an email (julyanne.correia@ufrpe.br)!
 - 😄 Pronouns: She/Her | Ela/Dela
 
+<hr/>
+
 <div>
   <a href="https://github.com/seu-usuário-aqui">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=koda-ms&layout=compact&langs_count=7&theme=dracula"/>
