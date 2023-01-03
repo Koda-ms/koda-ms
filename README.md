@@ -18,6 +18,6 @@ Here it goes a brief statement about my student life. Oh! And, on this profile, 
 
 <div>
   <a href="https://github.com/koda-ms">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=koda-ms&layout=compact&langs_count=7&theme=dracula"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=koda-ms&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=koda-ms&layout=compact&langs_count=7&theme=cobalt"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=koda-ms&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
 </div>
